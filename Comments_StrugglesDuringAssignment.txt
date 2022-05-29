@@ -1,0 +1,5 @@
+Hey Professor, 
+Wanted to add this quick message in here about some trouble I was having getting my .c code to run in my terminal.
+I switched to VSCode instead of the regualr terminal and text editor. I was hoping it would help me see where I was going 
+wrong with my code and/if i was doing something incorrect that was not allowing me to run my code. 
+If you could give some feedback that would be helpful, thanks. 
